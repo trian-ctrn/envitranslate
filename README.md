@@ -1,4 +1,5 @@
-# envitranslate
+# Envitranslate
+
 # Dependencies
 
 In your terminal or command prompt, clone this repository:
@@ -13,4 +14,10 @@ then install requirements using pip:
 ```
 pip install -r requirements.txt
 ```
+To run streamlit locally, use:
+```
+
+streamlit run Project.py
+```
+
 
